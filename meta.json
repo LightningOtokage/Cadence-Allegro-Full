@@ -1,0 +1,23 @@
+{
+  "repo": "cadence-allegro-full",
+  "product": "Cadence Allegro Full",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "electronics-design",
+  "topics": [
+    "cadence-allegro",
+    "pcb-design-suite",
+    "eda-professional",
+    "circuit-board-layout",
+    "allegro-pcb-editor",
+    "cadence-orcad-suite",
+    "pcb-routing-tools",
+    "allegro-windows",
+    "allegro-design-2026",
+    "allegro-desktop-package"
+  ],
+  "site": "toolix.me"
+}
